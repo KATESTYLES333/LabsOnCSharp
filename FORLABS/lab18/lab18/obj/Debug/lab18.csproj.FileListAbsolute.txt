@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\lab18\bin\Debug\lab18.exe.config
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\lab18\bin\Debug\lab18.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\lab18\bin\Debug\lab18.pdb
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\lab18\bin\Debug\MyLibrary.dll
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\lab18\bin\Debug\MyLibrary.pdb
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\lab18\obj\Debug\lab18.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\lab18\obj\Debug\lab18.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\lab18\obj\Debug\lab18.csproj.CopyComplete
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\lab18\obj\Debug\lab18.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\lab18\obj\Debug\lab18.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\NEWSREZ\NEWSREZ\bin\Debug\NEWSREZ.exe.config
+C:\Users\HP\Desktop\My first rep\C#\NEWSREZ\NEWSREZ\bin\Debug\NEWSREZ.exe
+C:\Users\HP\Desktop\My first rep\C#\NEWSREZ\NEWSREZ\bin\Debug\NEWSREZ.pdb
+C:\Users\HP\Desktop\My first rep\C#\NEWSREZ\NEWSREZ\obj\Debug\NEWSREZ.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\NEWSREZ\NEWSREZ\obj\Debug\NEWSREZ.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\NEWSREZ\NEWSREZ\obj\Debug\NEWSREZ.exe
+C:\Users\HP\Desktop\My first rep\C#\NEWSREZ\NEWSREZ\obj\Debug\NEWSREZ.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\srez\srez\bin\Debug\srez.exe.config
+C:\Users\HP\Desktop\My first rep\C#\srez\srez\bin\Debug\srez.exe
+C:\Users\HP\Desktop\My first rep\C#\srez\srez\bin\Debug\srez.pdb
+C:\Users\HP\Desktop\My first rep\C#\srez\srez\obj\Debug\srez.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\srez\srez\obj\Debug\srez.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\srez\srez\obj\Debug\srez.exe
+C:\Users\HP\Desktop\My first rep\C#\srez\srez\obj\Debug\srez.pdb

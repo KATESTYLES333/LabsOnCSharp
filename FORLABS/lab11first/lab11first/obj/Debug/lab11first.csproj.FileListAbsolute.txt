@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab11first\lab11first\bin\Debug\lab11first.exe.config
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab11first\lab11first\bin\Debug\lab11first.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab11first\lab11first\bin\Debug\lab11first.pdb
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab11first\lab11first\obj\Debug\lab11first.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab11first\lab11first\obj\Debug\lab11first.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab11first\lab11first\obj\Debug\lab11first.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab11first\lab11first\obj\Debug\lab11first.pdb

@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab18\MyLibrary\obj\Debug\MyLibrary.pdb

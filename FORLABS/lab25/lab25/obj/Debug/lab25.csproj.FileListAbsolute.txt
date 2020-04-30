@@ -1,0 +1,14 @@
+D:\MyFirstrep\C#\FORLABS\lab25\lab25\bin\Debug\lab25.exe.config
+D:\MyFirstrep\C#\FORLABS\lab25\lab25\bin\Debug\lab25.exe
+D:\MyFirstrep\C#\FORLABS\lab25\lab25\bin\Debug\lab25.pdb
+D:\MyFirstrep\C#\FORLABS\lab25\lab25\obj\Debug\lab25.csprojAssemblyReference.cache
+D:\MyFirstrep\C#\FORLABS\lab25\lab25\obj\Debug\MainWindow.g.cs
+D:\MyFirstrep\C#\FORLABS\lab25\lab25\obj\Debug\App.g.cs
+D:\MyFirstrep\C#\FORLABS\lab25\lab25\obj\Debug\lab25_MarkupCompile.cache
+D:\MyFirstrep\C#\FORLABS\lab25\lab25\obj\Debug\MainWindow.baml
+D:\MyFirstrep\C#\FORLABS\lab25\lab25\obj\Debug\lab25.g.resources
+D:\MyFirstrep\C#\FORLABS\lab25\lab25\obj\Debug\lab25.Properties.Resources.resources
+D:\MyFirstrep\C#\FORLABS\lab25\lab25\obj\Debug\lab25.csproj.GenerateResource.cache
+D:\MyFirstrep\C#\FORLABS\lab25\lab25\obj\Debug\lab25.csproj.CoreCompileInputs.cache
+D:\MyFirstrep\C#\FORLABS\lab25\lab25\obj\Debug\lab25.exe
+D:\MyFirstrep\C#\FORLABS\lab25\lab25\obj\Debug\lab25.pdb

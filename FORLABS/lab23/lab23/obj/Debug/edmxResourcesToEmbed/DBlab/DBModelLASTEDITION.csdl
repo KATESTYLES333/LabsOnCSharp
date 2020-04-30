@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="lab20Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Author">
+    <Key>
+      <PropertyRef Name="IdA" />
+    </Key>
+    <Property Name="IdA" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Books" Relationship="Self.FK__Books__idauthor__3E52440B" FromRole="Authors" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="IdB" />
+    </Key>
+    <Property Name="IdB" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdAuthor" Type="Int32" Nullable="false" />
+    <Property Name="CreateDate" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Author" Relationship="Self.FK__Books__idauthor__3E52440B" FromRole="Books" ToRole="Authors" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="PersonTicket">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ExpirationDate" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Readers" Relationship="Self.FK__Readers__idticke__398D8EEE" FromRole="PersonTickets" ToRole="Readers" />
+  </EntityType>
+  <EntityType Name="Reader">
+    <Key>
+      <PropertyRef Name="IdR" />
+    </Key>
+    <Property Name="IdR" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdTicket" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="PersonTicket" Relationship="Self.FK__Readers__idticke__398D8EEE" FromRole="Readers" ToRole="PersonTickets" />
+  </EntityType>
+  <Association Name="FK__Books__idauthor__3E52440B">
+    <End Role="Authors" Type="lab20Model.Author" Multiplicity="1" />
+    <End Role="Books" Type="lab20Model.Book" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Authors">
+        <PropertyRef Name="IdA" />
+      </Principal>
+      <Dependent Role="Books">
+        <PropertyRef Name="IdAuthor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Readers__idticke__398D8EEE">
+    <End Role="PersonTickets" Type="lab20Model.PersonTicket" Multiplicity="1" />
+    <End Role="Readers" Type="lab20Model.Reader" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PersonTickets">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Readers">
+        <PropertyRef Name="IdTicket" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBContextLASTEDITION" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Authors" EntityType="lab20Model.Author" />
+    <EntitySet Name="Books" EntityType="lab20Model.Book" />
+    <EntitySet Name="PersonTickets" EntityType="lab20Model.PersonTicket" />
+    <EntitySet Name="Readers" EntityType="lab20Model.Reader" />
+    <AssociationSet Name="FK__Books__idauthor__3E52440B" Association="Self.FK__Books__idauthor__3E52440B">
+      <End Role="Authors" EntitySet="Authors" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Readers__idticke__398D8EEE" Association="Self.FK__Readers__idticke__398D8EEE">
+      <End Role="PersonTickets" EntitySet="PersonTickets" />
+      <End Role="Readers" EntitySet="Readers" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

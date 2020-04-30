@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab10second\lab10second\obj\Debug\lab10second.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab10second\lab10second\obj\Debug\lab10second.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab10second\lab10second\bin\Debug\lab10second.exe.config
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab10second\lab10second\bin\Debug\lab10second.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab10second\lab10second\bin\Debug\lab10second.pdb
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab10second\lab10second\obj\Debug\lab10second.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab10second\lab10second\obj\Debug\lab10second.pdb

@@ -1,0 +1,7 @@
+D:\MyFirstrep\C#\FORLABS\lab30min\lab30min\bin\Debug\lab30min.exe.config
+D:\MyFirstrep\C#\FORLABS\lab30min\lab30min\bin\Debug\lab30min.exe
+D:\MyFirstrep\C#\FORLABS\lab30min\lab30min\bin\Debug\lab30min.pdb
+D:\MyFirstrep\C#\FORLABS\lab30min\lab30min\obj\Debug\lab30min.csprojAssemblyReference.cache
+D:\MyFirstrep\C#\FORLABS\lab30min\lab30min\obj\Debug\lab30min.csproj.CoreCompileInputs.cache
+D:\MyFirstrep\C#\FORLABS\lab30min\lab30min\obj\Debug\lab30min.exe
+D:\MyFirstrep\C#\FORLABS\lab30min\lab30min\obj\Debug\lab30min.pdb

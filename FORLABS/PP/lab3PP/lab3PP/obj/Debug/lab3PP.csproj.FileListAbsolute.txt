@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\PP\lab3PP\lab3PP\bin\Debug\lab3PP.exe.config
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\PP\lab3PP\lab3PP\bin\Debug\lab3PP.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\PP\lab3PP\lab3PP\bin\Debug\lab3PP.pdb
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\PP\lab3PP\lab3PP\obj\Debug\lab3PP.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\PP\lab3PP\lab3PP\obj\Debug\lab3PP.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\PP\lab3PP\lab3PP\obj\Debug\lab3PP.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\PP\lab3PP\lab3PP\obj\Debug\lab3PP.pdb

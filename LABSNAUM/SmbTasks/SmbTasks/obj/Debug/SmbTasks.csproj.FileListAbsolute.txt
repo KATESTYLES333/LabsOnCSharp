@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\My first rep\C#\SmbTasks\SmbTasks\bin\Debug\SmbTasks.exe.config
+C:\Users\HP\Desktop\My first rep\C#\SmbTasks\SmbTasks\bin\Debug\SmbTasks.exe
+C:\Users\HP\Desktop\My first rep\C#\SmbTasks\SmbTasks\bin\Debug\SmbTasks.pdb
+C:\Users\HP\Desktop\My first rep\C#\SmbTasks\SmbTasks\obj\Debug\SmbTasks.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\SmbTasks\SmbTasks\obj\Debug\SmbTasks.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\SmbTasks\SmbTasks\obj\Debug\SmbTasks.exe
+C:\Users\HP\Desktop\My first rep\C#\SmbTasks\SmbTasks\obj\Debug\SmbTasks.pdb
+C:\Users\HP\Desktop\My first rep\C#\LABSNAUM\SmbTasks\SmbTasks\bin\Debug\SmbTasks.exe.config
+C:\Users\HP\Desktop\My first rep\C#\LABSNAUM\SmbTasks\SmbTasks\bin\Debug\SmbTasks.exe
+C:\Users\HP\Desktop\My first rep\C#\LABSNAUM\SmbTasks\SmbTasks\bin\Debug\SmbTasks.pdb
+C:\Users\HP\Desktop\My first rep\C#\LABSNAUM\SmbTasks\SmbTasks\obj\Debug\SmbTasks.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\LABSNAUM\SmbTasks\SmbTasks\obj\Debug\SmbTasks.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\LABSNAUM\SmbTasks\SmbTasks\obj\Debug\SmbTasks.exe
+C:\Users\HP\Desktop\My first rep\C#\LABSNAUM\SmbTasks\SmbTasks\obj\Debug\SmbTasks.pdb

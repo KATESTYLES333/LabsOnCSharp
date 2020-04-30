@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<SomeClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <num1>0</num1>
+  <num2>0</num2>
+</SomeClass>

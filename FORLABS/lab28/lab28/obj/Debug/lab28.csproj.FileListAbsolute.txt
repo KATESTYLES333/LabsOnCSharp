@@ -1,0 +1,17 @@
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\bin\Debug\lab28.exe.config
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\bin\Debug\lab28.exe
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\bin\Debug\lab28.pdb
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\obj\Debug\lab28.csprojAssemblyReference.cache
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\obj\Debug\MainWindow.g.cs
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\obj\Debug\QuestionWindow.g.cs
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\obj\Debug\App.g.cs
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\obj\Debug\lab28_MarkupCompile.cache
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\obj\Debug\lab28_MarkupCompile.lref
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\obj\Debug\MainWindow.baml
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\obj\Debug\QuestionWindow.baml
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\obj\Debug\lab28.g.resources
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\obj\Debug\lab28.Properties.Resources.resources
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\obj\Debug\lab28.csproj.GenerateResource.cache
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\obj\Debug\lab28.csproj.CoreCompileInputs.cache
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\obj\Debug\lab28.exe
+D:\MyFirstrep\C#\FORLABS\lab28\lab28\obj\Debug\lab28.pdb

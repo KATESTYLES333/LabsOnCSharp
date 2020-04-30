@@ -1,0 +1,7 @@
+D:\MyFirstrep\C#\newAes\newAes\bin\Debug\newAes.exe.config
+D:\MyFirstrep\C#\newAes\newAes\bin\Debug\newAes.exe
+D:\MyFirstrep\C#\newAes\newAes\bin\Debug\newAes.pdb
+D:\MyFirstrep\C#\newAes\newAes\obj\Debug\newAes.csprojAssemblyReference.cache
+D:\MyFirstrep\C#\newAes\newAes\obj\Debug\newAes.csproj.CoreCompileInputs.cache
+D:\MyFirstrep\C#\newAes\newAes\obj\Debug\newAes.exe
+D:\MyFirstrep\C#\newAes\newAes\obj\Debug\newAes.pdb

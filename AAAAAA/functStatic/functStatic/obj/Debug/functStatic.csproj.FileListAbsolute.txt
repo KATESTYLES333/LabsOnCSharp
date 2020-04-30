@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\AAAAAA\functStatic\functStatic\bin\Debug\functStatic.exe.config
+C:\Users\HP\Desktop\My first rep\C#\AAAAAA\functStatic\functStatic\bin\Debug\functStatic.exe
+C:\Users\HP\Desktop\My first rep\C#\AAAAAA\functStatic\functStatic\bin\Debug\functStatic.pdb
+C:\Users\HP\Desktop\My first rep\C#\AAAAAA\functStatic\functStatic\obj\Debug\functStatic.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\AAAAAA\functStatic\functStatic\obj\Debug\functStatic.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\AAAAAA\functStatic\functStatic\obj\Debug\functStatic.exe
+C:\Users\HP\Desktop\My first rep\C#\AAAAAA\functStatic\functStatic\obj\Debug\functStatic.pdb

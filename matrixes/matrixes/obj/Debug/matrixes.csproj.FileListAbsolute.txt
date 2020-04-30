@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\matrixes\matrixes\bin\Debug\matrixes.exe.config
+C:\Users\HP\Desktop\My first rep\C#\matrixes\matrixes\bin\Debug\matrixes.exe
+C:\Users\HP\Desktop\My first rep\C#\matrixes\matrixes\bin\Debug\matrixes.pdb
+C:\Users\HP\Desktop\My first rep\C#\matrixes\matrixes\obj\Debug\matrixes.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\matrixes\matrixes\obj\Debug\matrixes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\matrixes\matrixes\obj\Debug\matrixes.exe
+C:\Users\HP\Desktop\My first rep\C#\matrixes\matrixes\obj\Debug\matrixes.pdb

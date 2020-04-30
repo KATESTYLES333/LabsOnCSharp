@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\pozd\pozd\bin\Debug\pozd.exe.config
+C:\Users\HP\Desktop\My first rep\C#\pozd\pozd\bin\Debug\pozd.exe
+C:\Users\HP\Desktop\My first rep\C#\pozd\pozd\bin\Debug\pozd.pdb
+C:\Users\HP\Desktop\My first rep\C#\pozd\pozd\obj\Debug\pozd.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\pozd\pozd\obj\Debug\pozd.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\pozd\pozd\obj\Debug\pozd.exe
+C:\Users\HP\Desktop\My first rep\C#\pozd\pozd\obj\Debug\pozd.pdb

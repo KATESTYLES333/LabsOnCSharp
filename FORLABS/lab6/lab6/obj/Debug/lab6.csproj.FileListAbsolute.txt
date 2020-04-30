@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\My first rep\C#\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\HP\Desktop\My first rep\C#\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\HP\Desktop\My first rep\C#\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\HP\Desktop\My first rep\C#\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\HP\Desktop\My first rep\C#\lab6\lab6\obj\Debug\lab6.pdb
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab6\lab6\obj\Debug\lab6.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\PP\practis\practis\bin\Debug\practis.exe.config
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\PP\practis\practis\bin\Debug\practis.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\PP\practis\practis\bin\Debug\practis.pdb
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\PP\practis\practis\obj\Debug\practis.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\PP\practis\practis\obj\Debug\practis.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\PP\practis\practis\obj\Debug\practis.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\PP\practis\practis\obj\Debug\practis.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\GlebTasks\GlebTasks\bin\Debug\GlebTasks.exe.config
+C:\Users\HP\Desktop\My first rep\C#\GlebTasks\GlebTasks\bin\Debug\GlebTasks.exe
+C:\Users\HP\Desktop\My first rep\C#\GlebTasks\GlebTasks\bin\Debug\GlebTasks.pdb
+C:\Users\HP\Desktop\My first rep\C#\GlebTasks\GlebTasks\obj\Debug\GlebTasks.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\GlebTasks\GlebTasks\obj\Debug\GlebTasks.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\GlebTasks\GlebTasks\obj\Debug\GlebTasks.exe
+C:\Users\HP\Desktop\My first rep\C#\GlebTasks\GlebTasks\obj\Debug\GlebTasks.pdb

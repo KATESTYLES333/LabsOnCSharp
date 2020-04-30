@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\HelloWOrld\HelloWOrld\bin\Debug\HelloWOrld.exe.config
+C:\Users\HP\source\repos\HelloWOrld\HelloWOrld\bin\Debug\HelloWOrld.exe
+C:\Users\HP\source\repos\HelloWOrld\HelloWOrld\bin\Debug\HelloWOrld.pdb
+C:\Users\HP\source\repos\HelloWOrld\HelloWOrld\obj\Debug\HelloWOrld.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\HelloWOrld\HelloWOrld\obj\Debug\HelloWOrld.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HelloWOrld\HelloWOrld\obj\Debug\HelloWOrld.exe
+C:\Users\HP\source\repos\HelloWOrld\HelloWOrld\obj\Debug\HelloWOrld.pdb

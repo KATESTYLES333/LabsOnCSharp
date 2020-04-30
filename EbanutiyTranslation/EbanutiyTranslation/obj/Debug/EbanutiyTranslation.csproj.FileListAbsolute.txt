@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\EbanutiyTranslation\EbanutiyTranslation\bin\Debug\EbanutiyTranslation.exe.config
+C:\Users\HP\Desktop\My first rep\C#\EbanutiyTranslation\EbanutiyTranslation\bin\Debug\EbanutiyTranslation.exe
+C:\Users\HP\Desktop\My first rep\C#\EbanutiyTranslation\EbanutiyTranslation\bin\Debug\EbanutiyTranslation.pdb
+C:\Users\HP\Desktop\My first rep\C#\EbanutiyTranslation\EbanutiyTranslation\obj\Debug\EbanutiyTranslation.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\EbanutiyTranslation\EbanutiyTranslation\obj\Debug\EbanutiyTranslation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\EbanutiyTranslation\EbanutiyTranslation\obj\Debug\EbanutiyTranslation.exe
+C:\Users\HP\Desktop\My first rep\C#\EbanutiyTranslation\EbanutiyTranslation\obj\Debug\EbanutiyTranslation.pdb

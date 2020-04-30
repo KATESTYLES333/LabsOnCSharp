@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\stringTest\stringTest\bin\Debug\stringTest.exe.config
+C:\Users\HP\Desktop\My first rep\C#\stringTest\stringTest\bin\Debug\stringTest.exe
+C:\Users\HP\Desktop\My first rep\C#\stringTest\stringTest\bin\Debug\stringTest.pdb
+C:\Users\HP\Desktop\My first rep\C#\stringTest\stringTest\obj\Debug\stringTest.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\stringTest\stringTest\obj\Debug\stringTest.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\stringTest\stringTest\obj\Debug\stringTest.exe
+C:\Users\HP\Desktop\My first rep\C#\stringTest\stringTest\obj\Debug\stringTest.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\kab5\kab5\obj\Debug\kab5.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\kab5\kab5\obj\Debug\kab5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\kab5\kab5\bin\Debug\kab5.exe.config
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\kab5\kab5\bin\Debug\kab5.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\kab5\kab5\bin\Debug\kab5.pdb
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\kab5\kab5\obj\Debug\kab5.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\kab5\kab5\obj\Debug\kab5.pdb

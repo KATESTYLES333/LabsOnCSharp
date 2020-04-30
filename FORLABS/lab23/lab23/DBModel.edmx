@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище lab20Model" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Authors">
+          <Key>
+            <PropertyRef Name="ida" />
+          </Key>
+          <Property Name="ida" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="name" Type="nvarchar" MaxLength="255" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Books">
+          <Key>
+            <PropertyRef Name="idb" />
+          </Key>
+          <Property Name="idb" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="idauthor" Type="int" Nullable="false" />
+          <Property Name="createDate" Type="date" Nullable="false" />
+        </EntityType>
+        <EntityType Name="PersonTickets">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="expirationDate" Type="date" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Readers">
+          <Key>
+            <PropertyRef Name="idr" />
+          </Key>
+          <Property Name="idr" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="idticket" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="FK__Books__idauthor__3E52440B">
+          <End Role="Authors" Type="Self.Authors" Multiplicity="1" />
+          <End Role="Books" Type="Self.Books" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Authors">
+              <PropertyRef Name="ida" />
+            </Principal>
+            <Dependent Role="Books">
+              <PropertyRef Name="idauthor" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Readers__idticke__398D8EEE">
+          <End Role="PersonTickets" Type="Self.PersonTickets" Multiplicity="1" />
+          <End Role="Readers" Type="Self.Readers" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="PersonTickets">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="Readers">
+              <PropertyRef Name="idticket" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Хранилище lab20ModelContainer">
+          <EntitySet Name="Authors" EntityType="Self.Authors" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Books" EntityType="Self.Books" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="PersonTickets" EntityType="Self.PersonTickets" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Readers" EntityType="Self.Readers" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Books__idauthor__3E52440B" Association="Self.FK__Books__idauthor__3E52440B">
+            <End Role="Authors" EntitySet="Authors" />
+            <End Role="Books" EntitySet="Books" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Readers__idticke__398D8EEE" Association="Self.FK__Readers__idticke__398D8EEE">
+            <End Role="PersonTickets" EntitySet="PersonTickets" />
+            <End Role="Readers" EntitySet="Readers" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="lab20Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Authors">
+          <Key>
+            <PropertyRef Name="ida" />
+          </Key>
+          <Property Name="ida" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Books" Relationship="Self.FK__Books__idauthor__3E52440B" FromRole="Authors" ToRole="Books" />
+        </EntityType>
+        <EntityType Name="Books">
+          <Key>
+            <PropertyRef Name="idb" />
+          </Key>
+          <Property Name="idb" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="idauthor" Type="Int32" Nullable="false" />
+          <Property Name="createDate" Type="DateTime" Nullable="false" />
+          <NavigationProperty Name="Authors" Relationship="Self.FK__Books__idauthor__3E52440B" FromRole="Books" ToRole="Authors" />
+        </EntityType>
+        <EntityType Name="PersonTickets">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="expirationDate" Type="DateTime" Nullable="false" />
+          <NavigationProperty Name="Readers" Relationship="Self.FK__Readers__idticke__398D8EEE" FromRole="PersonTickets" ToRole="Readers" />
+        </EntityType>
+        <EntityType Name="Readers">
+          <Key>
+            <PropertyRef Name="idr" />
+          </Key>
+          <Property Name="idr" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="idticket" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="PersonTickets" Relationship="Self.FK__Readers__idticke__398D8EEE" FromRole="Readers" ToRole="PersonTickets" />
+        </EntityType>
+        <Association Name="FK__Books__idauthor__3E52440B">
+          <End Role="Authors" Type="Self.Authors" Multiplicity="1" />
+          <End Role="Books" Type="Self.Books" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Authors">
+              <PropertyRef Name="ida" />
+            </Principal>
+            <Dependent Role="Books">
+              <PropertyRef Name="idauthor" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Readers__idticke__398D8EEE">
+          <End Role="PersonTickets" Type="Self.PersonTickets" Multiplicity="1" />
+          <End Role="Readers" Type="Self.Readers" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="PersonTickets">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="Readers">
+              <PropertyRef Name="idticket" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DBContext" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Authors" EntityType="Self.Authors" />
+          <EntitySet Name="Books" EntityType="Self.Books" />
+          <EntitySet Name="PersonTickets" EntityType="Self.PersonTickets" />
+          <EntitySet Name="Readers" EntityType="Self.Readers" />
+          <AssociationSet Name="FK__Books__idauthor__3E52440B" Association="Self.FK__Books__idauthor__3E52440B">
+            <End Role="Authors" EntitySet="Authors" />
+            <End Role="Books" EntitySet="Books" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Readers__idticke__398D8EEE" Association="Self.FK__Readers__idticke__398D8EEE">
+            <End Role="PersonTickets" EntitySet="PersonTickets" />
+            <End Role="Readers" EntitySet="Readers" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище lab20ModelContainer" CdmEntityContainer="DBContext">
+          <EntitySetMapping Name="Authors">
+            <EntityTypeMapping TypeName="lab20Model.Authors">
+              <MappingFragment StoreEntitySet="Authors">
+                <ScalarProperty Name="ida" ColumnName="ida" />
+                <ScalarProperty Name="name" ColumnName="name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Books">
+            <EntityTypeMapping TypeName="lab20Model.Books">
+              <MappingFragment StoreEntitySet="Books">
+                <ScalarProperty Name="idb" ColumnName="idb" />
+                <ScalarProperty Name="idauthor" ColumnName="idauthor" />
+                <ScalarProperty Name="createDate" ColumnName="createDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="PersonTickets">
+            <EntityTypeMapping TypeName="lab20Model.PersonTickets">
+              <MappingFragment StoreEntitySet="PersonTickets">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="expirationDate" ColumnName="expirationDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Readers">
+            <EntityTypeMapping TypeName="lab20Model.Readers">
+              <MappingFragment StoreEntitySet="Readers">
+                <ScalarProperty Name="idr" ColumnName="idr" />
+                <ScalarProperty Name="idticket" ColumnName="idticket" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

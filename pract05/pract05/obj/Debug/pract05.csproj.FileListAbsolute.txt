@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\pract05\pract05\bin\Debug\pract05.exe.config
+C:\Users\HP\Desktop\My first rep\C#\pract05\pract05\bin\Debug\pract05.exe
+C:\Users\HP\Desktop\My first rep\C#\pract05\pract05\bin\Debug\pract05.pdb
+C:\Users\HP\Desktop\My first rep\C#\pract05\pract05\obj\Debug\pract05.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\pract05\pract05\obj\Debug\pract05.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\pract05\pract05\obj\Debug\pract05.exe
+C:\Users\HP\Desktop\My first rep\C#\pract05\pract05\obj\Debug\pract05.pdb

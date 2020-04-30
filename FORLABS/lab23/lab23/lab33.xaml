@@ -1,0 +1,95 @@
+﻿<Window x:Class="lab23.lab33"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab23"
+        mc:Ignorable="d"
+        Title="lab33" Height="2789.8" Width="808.4">
+
+	<ScrollViewer Margin="0,0,-0.4,-755">
+		<Grid>
+			<DockPanel Style="{DynamicResource PannelStyle}">
+				<Menu DockPanel.Dock="Top" MinHeight="25">
+					<MenuItem Header="File">
+						<MenuItem Header="Save" Click="MenuItem_Click" IsCheckable="True" IsChecked="True"/>
+						<MenuItem Header="Print" Click="MenuItem_Click_1" IsEnabled="True"/>
+						<MenuItem Header="Copy" CommandTarget="{Binding ElementName=txtBox}" Command="Copy"/>
+						<MenuItem Header="Paste" CommandTarget="{Binding ElementName=txtBox}" Command="Paste"/>
+					</MenuItem>
+					<MenuItem Header="Find" >
+						<MenuItem Header="Find" Click="MenuItem_Click_4"/>
+						<MenuItem Header="Copy" CommandTarget="{Binding ElementName=txtBox}" Command="Copy"/>
+						<MenuItem Header="Paste" CommandTarget="{Binding ElementName=txtBox}" Command="Paste"/>
+					</MenuItem>
+					<MenuItem Header="Edit">
+						<MenuItem Header="Copy" CommandTarget="{Binding ElementName=txtBox}" Command="Copy"/>
+						<MenuItem Header="Paste" CommandTarget="{Binding ElementName=txtBox}" Command="Paste"/>
+					</MenuItem>
+					<MenuItem Header="Exit">
+						<MenuItem Header="Menu"  Click="MenuItem_Click_2"/>
+						<MenuItem Header="Exit" Click="MenuItem_Click_3"/>
+						<MenuItem Header="Copy" CommandTarget="{Binding ElementName=txtBox}" Command="Copy"/>
+						<MenuItem Header="Paste" CommandTarget="{Binding ElementName=txtBox}" Command="Paste"/>
+					</MenuItem>
+				</Menu>
+				<TextBox Style="{DynamicResource TxtBoxStyle}" x:Name="txxtBox" Margin="0,0.2,0,-764.4" Height="3500" VerticalAlignment="Top" />
+			</DockPanel>
+			<Label Content="Мiнск" Margin="59,71,668.8,447.8" FontWeight="Bold" RenderTransformOrigin="0.604,-0.738"/>
+			<GridSplitter HorizontalAlignment="Stretch" Margin="0,102,-8.2,3911.8" />
+
+			<Image Visibility="Visible" Source="img/catalog.png" Height="26" VerticalAlignment="Top" Margin="59,132,686.8,0" RenderTransformOrigin="1.358,0.592"></Image>
+			<Image Visibility="Visible" Source="img/thevail.png" Height="71" VerticalAlignment="Top" Margin="81,32,102.8,0"/>
+			<Label Content="НАВIНЫ" HorizontalAlignment="Left" Margin="210,129,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Nirmala UI" FontSize="14"/>
+			<Label  Content="ГОРАД" HorizontalAlignment="Left" Margin="299,129,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Nirmala UI" FontSize="14" RenderTransformOrigin="0.541,-0.354"/>
+			<Label Content="БИЗНЕС" HorizontalAlignment="Left" Margin="384,129,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Nirmala UI" FontSize="14"/>
+			<Label Content="КУЛЬТУРА" HorizontalAlignment="Left" Margin="471,129,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Nirmala UI" FontSize="14"/>
+			<Label Content="ЕЖА" HorizontalAlignment="Left" Margin="573,129,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Nirmala UI" FontSize="14"/>
+			<Label Content="СТЫЛЬ" Margin="638,129,74.8,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Nirmala UI" FontSize="14" RenderTransformOrigin="0.219,0.566"/>
+			<Label Content="ДЗЕЦI" HorizontalAlignment="Left" Margin="710,129,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Nirmala UI" FontSize="14" Width="57"/>
+			<StackPanel HorizontalAlignment="Left" Height="290" Margin="59,197,0,0" Background="LightGray" VerticalAlignment="Top" Width="686"/>
+			<Label Content="КАРЫСНАЯ ЗВЫЧКА" HorizontalAlignment="Left" Height="23" Margin="81,215,0,0" VerticalAlignment="Top" Width="121" FontSize="11" FontWeight="Bold"/>
+			<TextBlock  HorizontalAlignment="Left" Height="152" Margin="100,258,0,0" TextWrapping="Wrap" Text="Не разносить экскременты и не портить туфли: Почему нужно переобуваться на работе" VerticalAlignment="Top" Width="532" FontSize="30" FontWeight="Bold" FontFamily="Century Schoolbook"/>
+			<Label Content="Чтобы в офисе было чисто, а ногам — комфортно" Foreground="Gray" HorizontalAlignment="Left" Margin="95,386,0,0" VerticalAlignment="Top" Height="37" Width="587" FontSize="18"/>
+			<Label Content="THE VILLAGE БЕЛАРУСЬ, 12 СТУДЗЕНЯ 2019" HorizontalAlignment="Left" Foreground="Gray" Height="34" Margin="96,428,0,0" VerticalAlignment="Top" Width="649" FontSize="14"/>
+			<Image Visibility="Visible" Source="img/leg1.png"  Height="457" VerticalAlignment="Top" Margin="59,487,39.8,0"></Image>
+			<Button Background="CornflowerBlue" Foreground="White" HorizontalAlignment="Left" Height="36" Margin="59,978,0,0" VerticalAlignment="Top" Width="143" FontSize="14" FontWeight="Bold"/>
+			<Button Content="ПАДЗЯЛIЦЦА" Background="Blue" Foreground="White" HorizontalAlignment="Left" Height="36" Margin="249,978,0,0" VerticalAlignment="Top" Width="142" FontSize="14" FontWeight="Bold"/>
+			<Button Content="ТАIТНУТЬ" Background="DeepSkyBlue" Foreground="White" HorizontalAlignment="Left" Height="36" Margin="599,978,0,0" VerticalAlignment="Top" Width="142" FontSize="14" FontWeight="Bold"/>
+			<Button Content="ПАДЗЯЛIЦЦА" Background="DodgerBlue" Foreground="White" HorizontalAlignment="Left" Height="36" Margin="429,978,0,0" VerticalAlignment="Top" Width="142" FontSize="14" FontWeight="Bold" RenderTransformOrigin="0.081,1.389"/>
+			<TextBlock HorizontalAlignment="Left" Height="110" Margin="59,1048,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="682" FontSize="18">
+			<Run Text="Снег, реагенты, экскременты и другую (страшно подумать, какую еще) грязь мы приносим с собой домой, в университет, на работу, а потом в течение дня разносим по помещению. Что-то впитывается в ковер, а что-то оставляет неприятные следы на плитке, вызывая недовольство клинингового персонала."/>
+			</TextBlock>
+			<TextBlock HorizontalAlignment="Left" Height="62" Margin="59,1189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="682" FontSize="18">
+			<Run Text="The Village рассказывает, почему иметь под рабочим столом сменную обувь полезно для здоровья и экологии."/>
+			</TextBlock>
+			<Image Visibility="Visible" Source="img/leg2.png"  Height="457" VerticalAlignment="Top" Margin="55,1282,43.8,0"></Image>
+			<Image Visibility="Visible" Source="img/line.png" Height="33" VerticalAlignment="Top" Margin="384,1778,340.8,0"></Image>
+
+			<Label Content="ИЗАБЕЛЛА АНДРЕЕВА" Foreground="Gray" HorizontalAlignment="Left" Margin="40,1816,0,0" VerticalAlignment="Top" Height="37" Width="197" FontSize="18"/>
+			<TextBlock TextWrapping="Wrap" Text="специалист Школы активного долголетия" Foreground="Gray" HorizontalAlignment="Left" Margin="45,1851,0,0" VerticalAlignment="Top" Height="73" Width="242" FontSize="18"/>
+			<Label Content="Это полезно для здоровья" HorizontalAlignment="Center" FontSize="22" FontWeight="Bold" Width="328" Margin="287,1816,169.8,893.2"></Label>
+			<TextBlock TextWrapping="Wrap" Text="Есть возможность сменить обувь — обязательно ею пользуйтесь. Во-первых, если носить зимнюю обувь в помещении, нарушается потоотделение, и ноги банально преют. Это приводит к кожным раздражениям, может развиться грибок. Кроме того, даже самая комфортная обувь сковывает ноги, а значит, нарушается микроциркуляция крови, в результате развивается ишемия и варикоз ног."  HorizontalAlignment="Center"  FontSize="18" Width="423" Margin="287,1875,74.8,670.2"/>
+			<TextBlock TextWrapping="Wrap" Text="Иметь сменку в офисе точно не будет лишним, и дело тут не только в микробах. Все, что мы приносим с улицы на обуви, влияет на качество воздуха, которым мы дышим, а уж это точно сказывается на работоспособности и самочувствии. Так что в идеале хорошо бы практиковать это не только лично, но и на корпоративном уровне, как в детстве: уличную обувь — в шкафчик при входе, красивые сандалики на ноги — и вперед. Кроме того, тело не будет перегреваться снизу, а значит, не будет желания остудиться кондиционером. Дополнительный бонус: в уборке не потребуется ядовитая химия, чтобы уничтожить принесенные с улицы микробы и грязь."  HorizontalAlignment="Center"  FontSize="18" Width="423" Margin="299,2390,62.8,155"/>
+			<TextBlock  TextWrapping="Wrap" Text="Потные после целого дня в офисе ноги быстро замерзают на морозе. В этом случае могут обостриться хронические заболевания: цистит, пиелонефрит (заболевание почек — Прим. ред.). Говоря проще, выходить с мокрыми ногами на мороз — прямой путь к простудным заболеваниям." HorizontalAlignment="Center"  FontSize="18" Width="423" Margin="287,2131,74.8,448.2"/>
+			<GridSplitter HorizontalAlignment="Stretch" Margin="0,2321,-8.2,1690.8" />
+
+			<Label Content="Катя Колчанова" Foreground="Gray" HorizontalAlignment="Left" Margin="45,2330,0,0" VerticalAlignment="Top" Height="37" Width="197" FontSize="18"/>
+			<TextBlock TextWrapping="Wrap" Text="основатель интернет-магазина «Осока высокая» и сооснователь проекта «Теперь так»" Foreground="Gray" HorizontalAlignment="Left" Margin="45,2372,0,0" VerticalAlignment="Top" Height="127" Width="192" FontSize="18"/>
+			<Label Content="Это гигиенично" HorizontalAlignment="Center" FontSize="22" FontWeight="Bold" Width="328" Margin="299,2343,157.8,500.6"></Label>
+			<Image Visibility="Visible" Source="img/line1.png" Height="33" VerticalAlignment="Top" Margin="384,2775,340.8,0"></Image>
+
+			<StackPanel HorizontalAlignment="Left" Height="290" Margin="55,2838,0,0" Background="LightGray" VerticalAlignment="Top" Width="686"/>
+			<Label Content="РАСПАВЕСЦІ СЯБРАМ" HorizontalAlignment="Left" Height="29"  Margin="81,2872,0,0" VerticalAlignment="Top" Width="173" FontWeight="Bold" FontSize="13"/>
+			<Label Content="Падпісацца на штотыднёвую рассылку The Village Беларусь" HorizontalAlignment="Left" Height="37"  Margin="81,2979,0,0" VerticalAlignment="Top" Width="516" FontSize="18"/>
+			<TextBox Height="29"  Margin="86,3016,0,0" TextWrapping="Wrap" Text="Ваш E-mail.." VerticalAlignment="Top" Width="411" FontSize="16" HorizontalAlignment="Left"/>
+			<Button Content="ПАДПИIСАЦЦА" HorizontalAlignment="Left" Height="29" Margin="497,3016,0,0" VerticalAlignment="Top" Width="93" RenderTransformOrigin="0.486,0.444"/>
+
+			<Button Background="CornflowerBlue" Foreground="White" HorizontalAlignment="Left" Height="36" Margin="86,2927,0,0" VerticalAlignment="Top" Width="122" FontSize="14" FontWeight="Bold"/>
+			<Button Background="Blue" Foreground="White" HorizontalAlignment="Left" Height="36" Margin="249,2927,0,0" VerticalAlignment="Top" Width="87" FontSize="14" FontWeight="Bold"/>
+			<Button Background="DeepSkyBlue" Foreground="White" HorizontalAlignment="Left" Height="36" Margin="368,2927,0,0" VerticalAlignment="Top" Width="87" FontSize="14" FontWeight="Bold"/>
+			<Button Background="DodgerBlue" Foreground="White" HorizontalAlignment="Left" Height="36" Margin="497,2927,0,0" VerticalAlignment="Top" Width="87" FontSize="14" FontWeight="Bold" RenderTransformOrigin="0.081,1.389"/>
+
+		</Grid>
+	</ScrollViewer>
+</Window>

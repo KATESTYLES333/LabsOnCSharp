@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\newDelegats\newDelegats\bin\Debug\newDelegats.exe.config
+C:\Users\HP\Desktop\My first rep\C#\newDelegats\newDelegats\bin\Debug\newDelegats.exe
+C:\Users\HP\Desktop\My first rep\C#\newDelegats\newDelegats\bin\Debug\newDelegats.pdb
+C:\Users\HP\Desktop\My first rep\C#\newDelegats\newDelegats\obj\Debug\newDelegats.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\newDelegats\newDelegats\obj\Debug\newDelegats.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\newDelegats\newDelegats\obj\Debug\newDelegats.exe
+C:\Users\HP\Desktop\My first rep\C#\newDelegats\newDelegats\obj\Debug\newDelegats.pdb

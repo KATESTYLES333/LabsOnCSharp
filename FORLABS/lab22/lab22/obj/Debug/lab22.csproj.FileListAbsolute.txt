@@ -1,0 +1,7 @@
+D:\MyFirstrep\C#\FORLABS\lab22\lab22\bin\Debug\lab22.exe.config
+D:\MyFirstrep\C#\FORLABS\lab22\lab22\bin\Debug\lab22.exe
+D:\MyFirstrep\C#\FORLABS\lab22\lab22\bin\Debug\lab22.pdb
+D:\MyFirstrep\C#\FORLABS\lab22\lab22\obj\Debug\lab22.csprojAssemblyReference.cache
+D:\MyFirstrep\C#\FORLABS\lab22\lab22\obj\Debug\lab22.csproj.CoreCompileInputs.cache
+D:\MyFirstrep\C#\FORLABS\lab22\lab22\obj\Debug\lab22.exe
+D:\MyFirstrep\C#\FORLABS\lab22\lab22\obj\Debug\lab22.pdb

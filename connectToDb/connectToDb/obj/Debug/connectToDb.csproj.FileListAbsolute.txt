@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\My first rep\C#\connectToDb\connectToDb\bin\Debug\connectToDb.exe.config
+C:\Users\HP\Desktop\My first rep\C#\connectToDb\connectToDb\bin\Debug\connectToDb.exe
+C:\Users\HP\Desktop\My first rep\C#\connectToDb\connectToDb\bin\Debug\connectToDb.pdb
+C:\Users\HP\Desktop\My first rep\C#\connectToDb\connectToDb\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\My first rep\C#\connectToDb\connectToDb\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\My first rep\C#\connectToDb\connectToDb\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\My first rep\C#\connectToDb\connectToDb\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\Desktop\My first rep\C#\connectToDb\connectToDb\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\Desktop\My first rep\C#\connectToDb\connectToDb\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\My first rep\C#\connectToDb\connectToDb\bin\Debug\Renci.SshNet.xml
+C:\Users\HP\Desktop\My first rep\C#\connectToDb\connectToDb\obj\Debug\connectToDb.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\connectToDb\connectToDb\obj\Debug\connectToDb.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\connectToDb\connectToDb\obj\Debug\connectToDb.csproj.CopyComplete
+C:\Users\HP\Desktop\My first rep\C#\connectToDb\connectToDb\obj\Debug\connectToDb.exe
+C:\Users\HP\Desktop\My first rep\C#\connectToDb\connectToDb\obj\Debug\connectToDb.pdb

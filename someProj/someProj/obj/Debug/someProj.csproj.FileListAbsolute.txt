@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\someProj\someProj\bin\Debug\someProj.exe.config
+C:\Users\HP\Desktop\My first rep\C#\someProj\someProj\bin\Debug\someProj.exe
+C:\Users\HP\Desktop\My first rep\C#\someProj\someProj\bin\Debug\someProj.pdb
+C:\Users\HP\Desktop\My first rep\C#\someProj\someProj\obj\Debug\someProj.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\someProj\someProj\obj\Debug\someProj.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\someProj\someProj\obj\Debug\someProj.exe
+C:\Users\HP\Desktop\My first rep\C#\someProj\someProj\obj\Debug\someProj.pdb

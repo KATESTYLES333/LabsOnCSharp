@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\tryF\tryF\obj\Debug\tryF.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\tryF\tryF\bin\Debug\tryF.exe.config
+C:\Users\HP\source\repos\tryF\tryF\bin\Debug\tryF.exe
+C:\Users\HP\source\repos\tryF\tryF\bin\Debug\tryF.pdb
+C:\Users\HP\source\repos\tryF\tryF\obj\Debug\tryF.exe
+C:\Users\HP\source\repos\tryF\tryF\obj\Debug\tryF.pdb
+C:\Users\HP\source\repos\tryF\tryF\obj\Debug\tryF.csprojAssemblyReference.cache

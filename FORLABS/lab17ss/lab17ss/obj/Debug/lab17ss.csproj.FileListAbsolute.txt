@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab17ss\lab17ss\bin\Debug\lab17ss.exe.config
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab17ss\lab17ss\bin\Debug\lab17ss.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab17ss\lab17ss\bin\Debug\lab17ss.pdb
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab17ss\lab17ss\obj\Debug\lab17ss.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab17ss\lab17ss\obj\Debug\lab17ss.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab17ss\lab17ss\obj\Debug\lab17ss.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab17ss\lab17ss\obj\Debug\lab17ss.pdb

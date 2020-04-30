@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\TasksB\TasksB\bin\Debug\TasksB.exe.config
+C:\Users\HP\Desktop\My first rep\C#\TasksB\TasksB\bin\Debug\TasksB.exe
+C:\Users\HP\Desktop\My first rep\C#\TasksB\TasksB\bin\Debug\TasksB.pdb
+C:\Users\HP\Desktop\My first rep\C#\TasksB\TasksB\obj\Debug\TasksB.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\TasksB\TasksB\obj\Debug\TasksB.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\TasksB\TasksB\obj\Debug\TasksB.exe
+C:\Users\HP\Desktop\My first rep\C#\TasksB\TasksB\obj\Debug\TasksB.pdb

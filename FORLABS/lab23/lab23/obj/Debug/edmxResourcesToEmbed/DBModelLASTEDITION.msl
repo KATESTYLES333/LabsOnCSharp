@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище lab20ModelContainer" CdmEntityContainer="DBContextLASTEDITION">
+    <EntitySetMapping Name="Authors">
+      <EntityTypeMapping TypeName="lab20Model.Author">
+        <MappingFragment StoreEntitySet="Authors">
+          <ScalarProperty Name="IdA" ColumnName="ida" />
+          <ScalarProperty Name="Name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Books">
+      <EntityTypeMapping TypeName="lab20Model.Book">
+        <MappingFragment StoreEntitySet="Books">
+          <ScalarProperty Name="Name" ColumnName="name" />
+          <ScalarProperty Name="IdB" ColumnName="idb" />
+          <ScalarProperty Name="IdAuthor" ColumnName="idauthor" />
+          <ScalarProperty Name="CreateDate" ColumnName="createDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonTickets">
+      <EntityTypeMapping TypeName="lab20Model.PersonTicket">
+        <MappingFragment StoreEntitySet="PersonTickets">
+          <ScalarProperty Name="Id" ColumnName="id" />
+          <ScalarProperty Name="ExpirationDate" ColumnName="expirationDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Readers">
+      <EntityTypeMapping TypeName="lab20Model.Reader">
+        <MappingFragment StoreEntitySet="Readers">
+          <ScalarProperty Name="IdR" ColumnName="idr" />
+          <ScalarProperty Name="IdTicket" ColumnName="idticket" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

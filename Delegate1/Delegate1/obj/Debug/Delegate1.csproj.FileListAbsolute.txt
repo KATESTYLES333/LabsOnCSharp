@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\My first rep\C#\Delegate1\Delegate1\bin\Debug\Delegate1.exe.config
+C:\Users\HP\Desktop\My first rep\C#\Delegate1\Delegate1\bin\Debug\Delegate1.exe
+C:\Users\HP\Desktop\My first rep\C#\Delegate1\Delegate1\bin\Debug\Delegate1.pdb
+C:\Users\HP\Desktop\My first rep\C#\Delegate1\Delegate1\obj\Debug\Delegate1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\Delegate1\Delegate1\obj\Debug\Delegate1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\Delegate1\Delegate1\obj\Debug\Delegate1.exe
+C:\Users\HP\Desktop\My first rep\C#\Delegate1\Delegate1\obj\Debug\Delegate1.pdb

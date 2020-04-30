@@ -1,0 +1,15 @@
+D:\MyFirstrep\C#\FORLABS\lab30\lab30\bin\Debug\lab30.exe.config
+D:\MyFirstrep\C#\FORLABS\lab30\lab30\bin\Debug\lab30.exe
+D:\MyFirstrep\C#\FORLABS\lab30\lab30\bin\Debug\lab30.pdb
+D:\MyFirstrep\C#\FORLABS\lab30\lab30\obj\Debug\lab30.csprojAssemblyReference.cache
+D:\MyFirstrep\C#\FORLABS\lab30\lab30\obj\Debug\MainWindow.g.cs
+D:\MyFirstrep\C#\FORLABS\lab30\lab30\obj\Debug\App.g.cs
+D:\MyFirstrep\C#\FORLABS\lab30\lab30\obj\Debug\lab30_MarkupCompile.cache
+D:\MyFirstrep\C#\FORLABS\lab30\lab30\obj\Debug\lab30_MarkupCompile.lref
+D:\MyFirstrep\C#\FORLABS\lab30\lab30\obj\Debug\MainWindow.baml
+D:\MyFirstrep\C#\FORLABS\lab30\lab30\obj\Debug\lab30.g.resources
+D:\MyFirstrep\C#\FORLABS\lab30\lab30\obj\Debug\lab30.Properties.Resources.resources
+D:\MyFirstrep\C#\FORLABS\lab30\lab30\obj\Debug\lab30.csproj.GenerateResource.cache
+D:\MyFirstrep\C#\FORLABS\lab30\lab30\obj\Debug\lab30.csproj.CoreCompileInputs.cache
+D:\MyFirstrep\C#\FORLABS\lab30\lab30\obj\Debug\lab30.exe
+D:\MyFirstrep\C#\FORLABS\lab30\lab30\obj\Debug\lab30.pdb

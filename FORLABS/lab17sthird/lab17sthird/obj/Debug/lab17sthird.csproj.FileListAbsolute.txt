@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\My first rep\C#\lab17sthird\lab17sthird\bin\Debug\lab17sthird.exe.config
+C:\Users\HP\Desktop\My first rep\C#\lab17sthird\lab17sthird\bin\Debug\lab17sthird.exe
+C:\Users\HP\Desktop\My first rep\C#\lab17sthird\lab17sthird\bin\Debug\lab17sthird.pdb
+C:\Users\HP\Desktop\My first rep\C#\lab17sthird\lab17sthird\obj\Debug\lab17sthird.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\lab17sthird\lab17sthird\obj\Debug\lab17sthird.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\lab17sthird\lab17sthird\obj\Debug\lab17sthird.exe
+C:\Users\HP\Desktop\My first rep\C#\lab17sthird\lab17sthird\obj\Debug\lab17sthird.pdb
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab17sthird\lab17sthird\bin\Debug\lab17sthird.exe.config
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab17sthird\lab17sthird\bin\Debug\lab17sthird.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab17sthird\lab17sthird\bin\Debug\lab17sthird.pdb
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab17sthird\lab17sthird\obj\Debug\lab17sthird.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab17sthird\lab17sthird\obj\Debug\lab17sthird.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab17sthird\lab17sthird\obj\Debug\lab17sthird.exe
+C:\Users\HP\Desktop\My first rep\C#\FORLABS\lab17sthird\lab17sthird\obj\Debug\lab17sthird.pdb
